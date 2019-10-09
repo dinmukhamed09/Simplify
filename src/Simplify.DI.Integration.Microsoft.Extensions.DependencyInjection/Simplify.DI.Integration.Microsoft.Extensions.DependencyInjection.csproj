@@ -13,7 +13,7 @@
 		<PackageTags>.NET DI IOC-container Microsoft.Extensions.DependencyInjection</PackageTags>
 		<PackageReleaseNotes>
 			Updates
-			* Upgrade to Simplify.DI 4.0
+			* Microsoft.Extensions.DependencyInjection upgrade to 3.0.0
 		</PackageReleaseNotes>
 		<OutputPath>bin\Any CPU\$(Configuration)\</OutputPath>
 		<DocumentationFile>bin\Any CPU\$(Configuration)\$(TargetFramework)\Simplify.DI.Integration.Microsoft.Extensions.DependencyInjection.xml</DocumentationFile>
